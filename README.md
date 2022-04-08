@@ -16,3 +16,5 @@ Decision-Tree and Support Vector Machine classifiers will be tested on this data
 The CSV file included with this notebook contains LANDSAT 8 features extracted for each field. Three dominant crops (corn, soybeans, and winter wheat) are mapped to fields greater than 15 hectares (*n* = 928) in a small subset of West Perth County, Ontario. The satellite image is from 24 September 2013 when there is strong spectral discrimination between the crops of interest. Preprocessing and feature extraction from satellite imagery is resource-intensive and handled upstream of this CSV.
 
 LANDSAT 8 data is retrieved from the United States Geological Survey (USGS) [EarthExplorer portal](https://earthexplorer.usgs.gov/). Field boundaries and crop data are retrieved from the author's previous work (*Bangs et al., 2014. Exploring Field-Bounded Remote Sensing and Agriculture: Spatial Discretization of Ontario Farmland. Poster. Presented to Canadian Association of Geographers Conference 2014)*. 
+
+*N.B.:* Feature extraction is ongoing and the CSV file will be updated as features are added.
