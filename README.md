@@ -9,3 +9,6 @@ Crop type classification is an established application of satellite remote sensi
 
 Most 'classic' methods approach classification pixel-by-pixel. Smoothing and filtering windows may be applied *post-hoc* to map more homogeneous fields. While these methods are often satisfactory for large-area classifications, accuracy expectations typically top-out at 80-85%.
 
+This project seeks to test an enhancement these methods by considering the crop field geometry prior to classification through feature engineering. Reflectance averages, vegetation indices, and aggregate measures of spread of pixel values are calculated for each field, and these values used to classify crop type for each of these discrete spatial features.
+
+The CSV file included with this notebook contains extracted LANDSAT 8 features for each field. Preprocessing and feature extraction from satellite imagery is resource-intensive and handled upstream of this CSV.
