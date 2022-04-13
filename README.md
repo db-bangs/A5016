@@ -1,4 +1,5 @@
 # ADMN 5016 Machine Learning Project
+#### Donovan Bangs
 ADMN 5016 Project  
 Business Analytics  
 School of Business  
