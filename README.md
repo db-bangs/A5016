@@ -17,4 +17,4 @@ The CSV file included with this notebook contains LANDSAT 8 features extracted f
 
 LANDSAT 8 data is retrieved from the United States Geological Survey (USGS) [EarthExplorer portal](https://earthexplorer.usgs.gov/). Field boundaries and crop data are retrieved from the author's previous work (*Bangs et al., 2014. Exploring Field-Bounded Remote Sensing and Agriculture: Spatial Discretization of Ontario Farmland. Poster. Presented to Canadian Association of Geographers Conference 2014)*. 
 
-*N.B.:* Feature extraction is ongoing and the CSV file will be updated as features are added.
+*N.B.:* Model Codes are adapted from ADMN 5016 course material provided by Joseph Santarcangelo
