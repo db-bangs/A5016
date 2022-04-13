@@ -2,7 +2,7 @@
 ADMN 5016 Project  
 Business Analytics  
 School of Business  
-St. Lawrence College
+St. Lawrence College  
 Joseph Santarcangelo
 
 ## Field-Bounded Crop Type Classification
