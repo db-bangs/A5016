@@ -3,6 +3,7 @@ ADMN 5016 Project
 Business Analytics  
 School of Business  
 St. Lawrence College
+Joseph Santarcangelo
 
 ## Field-Bounded Crop Type Classification
 Crop type classification is an established application of satellite remote sensing, able to map continental scales of agriculture with a vast pool of satellite data and relatively few ground reference points required for a reasonably accurate product. Decision Trees and Support Vector Machines are commonly deployed as ML methods for the classifications.
